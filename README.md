@@ -3,8 +3,8 @@
 An AI-powered NLP project that automates the resume-screening process using TF-IDF, NER, skill extraction, and similarity scoring.
 
 ### Features
--Cleans and preprocesses unstructured resume text
--Extracts skills using a dictionary + NER hybrid method
+Cleans and preprocesses unstructured resume text
+Extracts skills using a dictionary + NER hybrid method
 Computes Cosine similarity (semantic match)
 Computes Jaccard similarity (skill overlap)
 Generates a hybrid ranking score for candidates
